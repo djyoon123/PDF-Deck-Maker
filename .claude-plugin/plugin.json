@@ -1,0 +1,21 @@
+{
+  "name": "consulting-deck",
+  "version": "0.1.0",
+  "description": "브리프만 주면 전략컨설팅 품질의 읽기용 PDF 덱을 그려주는 플러그인. PwC·McKinsey·BCG·EY·Kearney·KPMG 실제 산출물에서 학습한 레이아웃 그리드·타이포·12개 슬라이드 아키타입을 HTML/CSS로 조립해 Chrome 헤드리스로 PDF 렌더. 한국어 우선, 중립 미니멀 기본 테마(클라이언트별 리테마 지원). 파이썬 stdlib만 사용, 오프라인.",
+  "author": {
+    "name": "D.Yoon",
+    "email": "ydj911119@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "pdf",
+    "slides",
+    "deck",
+    "consulting",
+    "presentation",
+    "strategy",
+    "korean"
+  ]
+}

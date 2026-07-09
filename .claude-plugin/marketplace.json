@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "dyoon-local",
+  "description": "D.Yoon 로컬 플러그인 마켓플레이스",
+  "owner": {
+    "name": "D.Yoon",
+    "email": "ydj911119@gmail.com"
+  },
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "consulting-deck",
+      "description": "전략컨설팅 품질의 읽기용 PDF 덱 생성기 (한국어 우선, 중립 미니멀).",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "productivity",
+      "author": {
+        "name": "D.Yoon",
+        "email": "ydj911119@gmail.com"
+      },
+      "tags": ["pdf", "slides", "deck", "consulting", "korean"]
+    }
+  ]
+}

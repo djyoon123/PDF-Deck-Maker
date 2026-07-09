@@ -1,0 +1,7 @@
+# consulting-deck 는 Python 표준 라이브러리만 사용합니다 (pip 설치 불필요).
+#
+# 런타임 요구사항:
+#   - Python 3.9+
+#   - Google Chrome (PDF 렌더링용, --headless --print-to-pdf)
+#       macOS 기본 경로: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+#       환경변수 CHROME_BIN 으로 경로 override 가능
